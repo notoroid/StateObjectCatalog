@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:UseStateObject/UseStateObject.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UseStateObjectWithParameter/UseStateObjectWithParameter.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UseStateObjectToggleView/UseStateObjectToggleView.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UseStateObjectDependencyInjection/UseStateObjectDependencyInjection.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UseObservedObject/UseObservedObject.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UseObservedObjectWithParameter/UseObservedObjectWithParameter.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UseObservedObjectDependencyInjection/UseObservedObjectDependencyInjection.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UseObservedObjectToggleView/UseObservedObjectToggleView.xcodeproj">
+   </FileRef>
+</Workspace>
